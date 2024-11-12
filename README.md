@@ -16,3 +16,5 @@ _**Note :- Clone this repo. Crete a branch with your name. Upload your files to 
   * Consider a large pizzeria with an area exceeding 10K sq m. There are robots equipped with all the equipments to make and deliver Pizza's to the customers.
   * Customers walk in , select pizza and make payment through a Kiosk. The Kiosk gives a table number where the customer waits for his order.
   * **Challenge** :- Design a system for this pizzeria with automated robots. Use your experience and design a system that is practical and deployable.
+###
+  **Note :- Please go through the updated_readme file for the execution of tasks assigned**
